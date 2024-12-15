@@ -17,6 +17,6 @@ header {
 }
 
 #image {
-  margin-top: 50px;
-
+  margin-top: 10%;
+  border-radius: 10px;
 }

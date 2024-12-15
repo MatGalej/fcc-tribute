@@ -1,0 +1,22 @@
+header {
+  text-align: center;
+  background: antiquewhite;
+  top: 0;
+  left: 0;
+  position: fixed;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+#img-bg {
+  background-color: grey;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+
+}
+
+#image {
+  margin-top: 50px;
+
+}

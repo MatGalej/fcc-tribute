@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&display=swap');
+
 header {
   text-align: center;
+  font-family: Space-Grotesk, Arial, serif;
   background: antiquewhite;
   top: 0;
   left: 0;
@@ -19,4 +22,20 @@ header {
 #image {
   margin-top: 10%;
   border-radius: 10px;
+}
+
+#img-div p {
+  text-align: center;
+  font-family: Space-Grotesk, Arial, serif;
+  font-style: italic;
+}
+
+#tribute-info {
+  text-align: center;
+}
+
+#tribute-info ul > li {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
 }

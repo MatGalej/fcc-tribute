@@ -1,1 +1,64 @@
-f
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&display=swap');
+
+header {
+  text-align: center;
+  font-family: Space-Grotesk, Arial, serif;
+  background: antiquewhite;
+  top: 0;
+  left: 0;
+  position: fixed;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+#img-bg {
+  background-color: grey;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  border-radius: 15px;
+}
+
+#image {
+  margin-top: 10%;
+  display: block;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  min-width: 80%;
+  max-height: 100%;
+  min-height: 70%;
+}
+
+#img-div p {
+  text-align: center;
+  font-family: Space-Grotesk, Arial, serif;
+  font-style: italic;
+}
+
+#label {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+#tribute-info ul > li {
+  padding-bottom: 25px;
+}
+
+#tribute-info span {
+  font-weight: 700;
+}
+
+#tribute-footer {
+  background: antiquewhite;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-top: auto;
+  margin-left: -5px;
+  margin-right: -5px;
+  border-radius: 15px;
+}
+
